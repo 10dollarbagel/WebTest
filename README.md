@@ -1,2 +1,2 @@
 # WebTest
-Prototype website written in golang
+Prototype webserver written in golang
